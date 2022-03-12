@@ -1,6 +1,6 @@
 # A point Cloud-based network verifier (Initial Repo) 
 
-Sample guidelines with DNNV
+Sample guidelines with DNNV. This file will be updated time to time.
 
 ## Setup Virtual Environment
 
