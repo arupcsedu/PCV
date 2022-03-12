@@ -1,4 +1,4 @@
-# NeuralNetworkVerification
+# A point Cloud-based network verifier 
 
 ## Setup Virtual Environment
 
