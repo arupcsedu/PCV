@@ -1,4 +1,6 @@
-# A point Cloud-based network verifier 
+# A point Cloud-based network verifier (Initial Repo) 
+
+Sample guidelines with DNNV
 
 ## Setup Virtual Environment
 
