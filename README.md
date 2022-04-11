@@ -5,6 +5,7 @@ Sample guidelines with DNNV. This file will be updated time to time.
 ## Setup Virtual Environment
 
 ```ruby
+$ !python3.9 -m venv .venv
 $ python3 -m venv .venv
 $ . .venv/bin/activate
 ```
@@ -13,9 +14,11 @@ $ . .venv/bin/activate
 ```ruby
 $ git clone https://github.com/dlshriver/DNNV.git
 $ cd DNNV
-$ pip install .
+$ !pip3 install .
 ```
-
+## Install Dependencies
+$ !dnnv_manage install planet mipverify neurify eran bab marabou nnenum verinet
+reluplex has build error problem
 ## Verify mnist onnx model with ERAN properties
 
 ```ruby
