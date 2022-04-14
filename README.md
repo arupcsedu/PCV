@@ -1,9 +1,11 @@
 # A point Cloud-based network verifier (Initial Repo) 
+1. Setup project with pointnet
+2. Update Property file
 
 Sample guidelines with DNNV. This file will be updated time to time.
 
 ## Setup Virtual Environment
-## test
+
 ```ruby
 $ !python3.9 -m venv .venv
 $ python3 -m venv .venv
