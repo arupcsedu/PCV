@@ -1,16 +1,17 @@
 # A point Cloud-based network verifier (Initial Repo) 
-1. Setup project with pointnet
-2. Update Property file
-
-Sample guidelines with DNNV. This file will be updated time to time.
 
 ## Setup Virtual Environment
 
 ```ruby
-$ !python3.9 -m venv .venv
-$ python3 -m venv .venv
+$
+$ !python3 -m venv .venv
 $ . .venv/bin/activate
 ```
+Open PCV_Onnx_shared_v1.ipynb file in google colab or any local python environment and execute all cells.
+Be sure to enable GPU.
+If you face any issue to load the PTH and ONNX file, generate the file once again and check the path.
+
+Sample guidelines with DNNV. For future references
 ## Install DNNV
 
 ```ruby
