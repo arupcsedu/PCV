@@ -11,7 +11,7 @@ Open PCV_Onnx_shared_v1.ipynb file in google colab or any local python environme
 Be sure to enable GPU.
 If you face any issue to load the PTH and ONNX file, generate the file once again and check the path.
 
-Sample guidelines with DNNV. For future references
+## Sample guidelines with DNNV. For future references, not needed for PCV
 ## Install DNNV
 
 ```ruby
